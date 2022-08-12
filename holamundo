@@ -1,17 +1,15 @@
-<h1>hola mundo</h1>
 
-
-<ul>
-    <ol>
-        <a href="home.html">Inicio</a>
-    </li>
-    <ol>
-        <a href="about.html">Sobre Nosotros</a>
-    </li>
-    <ol>
-        <a href="contact_us.html">Contáctanos</a>
-    </ol
-    >
+ul>
+<ol>
+    <a href="home.html">Inicio</a>
+</li>
+<ol>
+    <a href="about.html">Sobre Nosotros</a>
+</li>
+<ol>
+    <a href="contact_us.html">Contáctanos</a>
+</ol
+>
 </ul>
 
 <table>
@@ -35,5 +33,3 @@
         </tr>
     </tbody>
 </table>
-
-
