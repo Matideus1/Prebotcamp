@@ -3,15 +3,6 @@ function myBirthYearFunc(){
     }
 // el console.log esta imprimiendo el año de nacimiento 
 
-
-
-
-
-
-
-
-
-
 function myBirthYearFunc(EntradaAñoNacimiento){
         console.log("Nací en " + EntradaAñoNacimiento);
     }
