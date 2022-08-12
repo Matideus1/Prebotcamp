@@ -3,3 +3,27 @@ function myBirthYearFunc(){
     }
 // el console.log esta imprimiendo el año de nacimiento 
 
+
+
+
+
+
+
+
+
+
+function myBirthYearFunc(EntradaAñoNacimiento){
+        console.log("Nací en " + EntradaAñoNacimiento);
+    }
+ // el console.log imprime el año de nacimiento
+
+
+
+ function add(num1, num2){
+    console.log("¡Sumando números!");
+    console.log("num1 is: " + num1);
+    console.log("num2 is: " + num2);
+    var sum = num1 + num2;
+    console.log(sum);
+}
+//console.log imprimir el resultado  30
