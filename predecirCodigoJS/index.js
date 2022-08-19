@@ -18,3 +18,12 @@ function myBirthYearFunc(EntradaAñoNacimiento){
     console.log(sum);
 }
 //console.log imprimir el resultado  30
+function muestraInformaciónContacto() {
+    var auntContactInfo = ["Paula", "Smith", "Calle Principal 1234", "St. Louis", "MO", 12345];
+    console.log(auntContactInfo);
+}
+
+function muestraInformaciónContacto() {
+    var auntContactInfo = ["Paula", "Smith", "Calle Principal 1234", "St. Louis", "MO", 12345];
+    console.log(auntContactInfo);
+}
