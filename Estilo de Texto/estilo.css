@@ -1,0 +1,22 @@
+h1{
+    font-family: cursive;
+    background-color: black;
+    color: white;
+}
+
+h2{
+    front-weight : lighter;
+background-color: purple;
+color: white;
+font-style:italic ;
+font-family:cursive ;
+text-align: center;
+}
+
+h3{
+front-weight : lighter;
+font-family:cursive ;
+text-align: right;
+background-color: cadetblue;
+color: white;
+}
