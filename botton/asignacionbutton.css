@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+       <button class="buscar"><strong>Search</strong></button>
+    </div>
+    <div>
+        <button class="mas">+</button>
+     </div>
+     <div>
+        <button class="Search">Create Account</button>
+     </div>
+</body>
+</html>
+
+
+
+
+.buscar{
+
+    border: 1px solid cyan;
+    margin: 25px;
+    border-radius: 25px;
+    width: 180px;
+    height: 30px;
+    color: cyan;
+}
+
+.mas{
+
+    background-color: aqua;
+    margin: 25px;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.Search{
+   background-color: rgb(61, 141, 233); 
+   margin: 10px;
+   width: 200px;
+   height: 35px;
+   color: aliceblue;
+  
+}
