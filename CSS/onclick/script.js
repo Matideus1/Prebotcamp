@@ -1,10 +1,20 @@
 function mensaje(element) {
     console.log("elemento clickeado", element);
-    alert(' akmlnhuujgsisuhnhyusfhnjjisghsggimjs<shnlshnu<gjhnuhn')
+    alert('luxianocallate')
 }
 function hide(element) {
     element.remove();
 }
 function turnOff(element) {
-    element.innerText = "Login";
-}
+    if (element.innerText == "Login") {
+        console.log; 
+        element.innerText = "Logout";
+    }
+    else {
+        element.innerText = "Login" 
+        console.log;
+    }
+} 
+
+
+  
