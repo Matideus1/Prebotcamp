@@ -6,8 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="script.js">
 </head>
 <body>
-
+    <div>
+        <button onclick="setActive(this)">Cambiar al modo oscuro</button>
+    </div>
+    <script>function setActive(element) {
+        element.classList.add("dark-mode");
+    }
+    </script>
 </body>
 </html>
