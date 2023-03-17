@@ -1,0 +1,32 @@
+. .body{
+    background-color: beige;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.padding-10px{
+    padding:15px
+}
+.margin¨{
+    margin: 15px;
+}
+.aqua-fondo{
+    background-color: aqua;
+}
+.h1{
+    text-align: center;
+}
+img.octocat {
+    height: 200px;
+}
+.purple-fondo{
+    background-color: purple;
+    margin-top: 20px;
+}
+.blue-fondo{
+    background-color: blue;
+    margin-bottom: 20px;
+}
