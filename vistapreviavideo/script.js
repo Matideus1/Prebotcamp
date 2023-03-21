@@ -1,9 +1,9 @@
 const video = document.getElementById("video")
 
-video.onmouseover( ()=>{
+video.addEventListener("mouseover",function() {
     video.play()
 })
 
-video.onmouseleave( ()=>{
-    video.stop()
+video.addEventListener("mouseout",function(){
+    video.pause()
 })
