@@ -1,0 +1,103 @@
+.Barra{
+  padding:5px 200px;
+  height: 4em;
+  background-color: rgb(189, 189, 187);
+  justify-content: space-around;
+  display: flex;
+  border-radius: 4px;
+
+}
+.search{
+  border-radius: 80px;
+  height: 50px;
+}
+.caja1{
+  background-color:grey;
+  border: 3px solid purple;
+  
+ 
+
+}
+.caja2{
+ display: flex;
+ justify-content:space-around
+}
+
+.principal{
+  border: 5px solid blue;
+  padding: 5px 200px;
+}
+
+.caja2{
+  background-color: white;
+
+  
+}
+.boton{
+  background-color:rgb(0, 123, 231);
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+.row {
+  display: flex;
+}
+
+.col, .col-2, .col-3 {
+  margin: 10px;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  flex: 1;
+}
+
+.col-2 {
+  flex: 2;
+}
+
+.col-3 {
+  flex: 3;
+}
+
+.icon-1{
+  width: 60px;
+}
+.icon2{
+  width: 60px;;
+  height: 60px;
+}
+.icon-3{
+  width: 40px;
+  height: 40px;
+}
+.icon-4{
+  height: 100px;
+  width:200px;
+}
+.icon-5{
+  height: 50px;
+  width: 50px;
+}
+.icon-6{
+
+}
+.icon-7{
+  height: 50px;
+  width: 50px ;
+}
+
+.btn{
+  width: 200px;
+  height: 50px;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 10px;
+}
+.img{
+  width: 50px;
+}
+.img-2{
+  width: 300px;
+  height: 200px;
+}
